@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>s1deways</title><link>https://7ock.github.io/</link><description>Bridges are strong, tunnel light.</description><copyright>s1deways</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/7ock/7ock.github.io/main/img/avatar.jpg</url><title>avatar</title><link>https://7ock.github.io/</link></image><lastBuildDate>Sat, 02 Dec 2023 07:37:29 +0000</lastBuildDate><managingEditor>s1deways</managingEditor><pubDate>Sat, 02 Dec 2023 07:37:29 +0000</pubDate><ttl>60</ttl><webMaster>s1deways</webMaster><item><title>Test</title><link>https://7ock.github.io//post/Test.html</link><description># Test&#13;
+&gt; aaaaa&#13;
+## Test&#13;
+### Test&#13;
++ a&#13;
++ b&#13;
+```http&#13;
+aaa&#13;
+```。</description><guid isPermaLink="true">https://7ock.github.io//post/Test.html</guid><pubDate>Sat, 02 Dec 2023 07:37:03 +0000</pubDate></item></channel></rss>
